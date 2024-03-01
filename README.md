@@ -1,5 +1,5 @@
-#Learn how to add animations in android apps and activities <br>
-#Learn how to remove statuse bar <br>
+<H1>Learn how to add animations in android apps and activities</H1> <br>
+<H1>Learn how to remove statuse bar</H1> <br>
 getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN); <br>
 
 Use this website for animation <br>
